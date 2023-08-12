@@ -1,7 +1,7 @@
 ### Command Line Bot (CLB)
 
 <p align="center">
-      <img src="https://static.vecteezy.com/system/resources/previews/007/198/990/non_2x/clb-letter-logo-design-on-white-background-clb-creative-initials-letter-logo-concept-clb-letter-design-vector.jpg" width="1010", height="600">
+      <img src="https://static.vecteezy.com/system/resources/previews/007/198/990/non_2x/clb-letter-logo-design-on-white-background-clb-creative-initials-letter-logo-concept-clb-letter-design-vector.jpg" width="500", height="500">
 </p>
 
 
